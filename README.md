@@ -1,1 +1,1 @@
-#STAT 5320 Final Project
+STAT 5320 Final Project
